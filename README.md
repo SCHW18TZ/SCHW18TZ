@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SCHWITZ</h1>
-<h3 align="center">A bitch</h3>
+<h3 align="center">Verified discord bot developer and web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schwitz&label=Profile%20views&color=0e75b6&style=flat" alt="schwitz" /> </p>
 
