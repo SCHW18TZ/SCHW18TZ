@@ -22,3 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schwitz&show_icons=true&locale=en" alt="schwitz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schwitz&" alt="schwitz" /></p>
+
+
+
+![SCHW18TZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=SCHW18TZ&theme=github)
