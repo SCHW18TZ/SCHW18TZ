@@ -25,3 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SCHW18TZ&" alt="schwitz" /></p>
 
+![Snake-eating-my-contributions-graph](https://github.com/kr-anurag/SCHW18TZ/blob/output/github-contribution-grid-snake.gif)
