@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm SCHWITZ</h1>
-<h3 align="center">A passionate 14 year old web developer and bot developer from India!</h3>
+<h3 align="center">A passionate 15 year old web developer and bot developer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schwitz&label=Profile%20views&color=0e75b6&style=flat" alt="schwitz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SCHW18TZ" alt="schwitz" /></a> </p>
 
-- 🔭 I’m currently working on [Skynet](https://shitz.cf)
+- 🔭 I’m currently working on [homezoneindia](https://homezoneindia.com)
 
-- 👨‍💻 All of my projects are available at [https://shitz.cf](https://shitz.cf)
+- 👨‍💻 All of my projects are available at [https://schwitz.me](https://schwitz.me)
 
 - 📫 How to reach me **schwtzkgyt@gmail.com**
 
