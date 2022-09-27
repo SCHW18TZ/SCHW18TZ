@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SCHW18TZ" alt="schwitz" /></a> </p>
 
+[![@schwitz6969's Holopin board](https://holopin.io/api/user/board?user=schwitz6969)](https://holopin.io/@schwitz6969)
+
+
 - 🔭 I’m currently working on [homezoneindia](https://homezoneindia.com)
 
 - 👨‍💻 All of my projects are available at [https://schwitz.me](https://schwitz.me)
