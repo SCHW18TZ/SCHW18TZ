@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [homezoneindia](https://homezoneindia.com)
 
-- 👨‍💻 All of my projects are available at [https://schwitz.me](https://schwitz.me)
+- 👨‍💻 All of my projects are available at [https://bio.link/schwitz](https://bio.link/schwitz)
 
 - 📫 How to reach me **schwtzkgyt@gmail.com**
 
