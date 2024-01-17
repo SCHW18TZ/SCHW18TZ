@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SCHWITZ</h1>
-<h3 align="center">A passionate 16 year old web developer and bot developer from India!</h3>
+<h3 align="center">A passionate web developer and bot developer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schwitz&label=Profile%20views&color=0e75b6&style=flat" alt="schwitz" /> </p>
 
